@@ -2,7 +2,7 @@
 var CONFIG = {
   nombre: "AM Regalos",
   intro: "Llaveros, regalos y piezas decorativas hechos a mano con corte láser e impresión 3D. Elegí el que te guste y pedilo por WhatsApp.",
-  whatsapp: "541178726062",            // tu número con código de país, sin + ni espacios. Ej: "5491112345678"
+  whatsapp: "541178126062",            // tu número con código de país, sin + ni espacios. Ej: "5491112345678"
   mensaje: "Hola! Me interesa: ",   // el nombre del producto se agrega al final
   boton: "Pedir por WhatsApp",
   notas: [                 // textos del pie de página (uno por línea)
