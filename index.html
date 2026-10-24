@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AM Regalos · Catálogo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><div class="hole" aria-hidden="true"></div><h1 id="nombre">AM Regalos</h1></div>
+    <p class="sub" id="intro">Llaveros, regalos y piezas decorativas realizados con corte láser e impresión 3D.</p>
+  </header>
+  <div class="filters" id="filters" role="group" aria-label="Categorías"></div>
+  <main class="grid" id="grid"></main>
+  <footer class="note" id="notas"></footer>
+</div>
+
+<!-- Orden importante: primero la configuración y los productos, al final la lógica -->
+<script src="js/config.js"></script>
+<script src="js/productos.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

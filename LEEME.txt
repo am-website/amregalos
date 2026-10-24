@@ -1,0 +1,10 @@
+CATÁLOGO AM REGALOS
+
+Qué editar:
+  js/config.js     -> nombre, texto de presentación, tu WhatsApp, notas del pie
+  js/productos.js  -> tus productos, precios y fotos
+  css/styles.css   -> colores y diseño (variables al principio del archivo)
+  img/             -> poné acá las fotos y escribí la ruta en productos.js (ej: "img/llavero.jpg")
+
+Cómo verlo: abrí index.html en el navegador.
+Cómo publicarlo: subí la carpeta completa a Netlify, Cloudflare Pages o GitHub Pages.
