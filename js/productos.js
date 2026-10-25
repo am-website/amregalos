@@ -27,6 +27,7 @@ var PRODUCTOS = [
   {nombre:"Llavero y Soporte Celular 3D multicolor - CARP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0609.jpeg"},
   {nombre:"Llavero y Soporte Celular 3D multicolor - CABJ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0621.jpeg"},
   {nombre:"Llavero 3D multicolor - Panda", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0804.jpeg"},
+  {nombre:"Llavero 3D multicolor - Palta x 2 con imán ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:15000, img:"./img/palta.jpg.webp"},
  
  
   {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"Escribís el nombre y lo hacemos en madera o 3D.", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
