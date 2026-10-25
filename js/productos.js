@@ -16,7 +16,7 @@ var PRODUCTOS = [
   {nombre:"Llavero 3D multicolor - Yamaha", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0789.jpeg"},
   {nombre:"Llavero 3D multicolor - Renault", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0783.jpeg"},
   {nombre:"Llavero 3D multicolor - Ford", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0787.jpeg"},
-  {nombre:"Llavero 3D multicolor - Caniche pelo negro", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0776.jpeg"},
+  {nombre:"Llavero 3D multicolor - Caniche pelo negro", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0781.jpeg"},
   {nombre:"Llavero 3D multicolor - Dragon Flexy efecto seda duo", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:12000, img:"./img/IMG_0800.jpeg"},
   {nombre:"Llavero de madera grabado", cat:"Llaveros", desc:"Diseño grabado a elección de la lista.", precio:3500, img:""},
   {nombre:"Llavero 3D multicolor - Bandera Argentina", cat:"Llaveros", desc:"Impreso en PLA, varios colores en una pieza.", precio:5000, img:"./img/IMG_0779.jpeg"},
