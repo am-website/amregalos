@@ -9,9 +9,9 @@
 */
 var PRODUCTOS = [
   {nombre:"Llavero 3D multicolor - Oso", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0774.jpeg"},
-  {nombre:"Llavero 3D multicolor - Vaso café tamaño Small", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0771.jpeg"},
+  {nombre:"Llavero 3D multicolor - Vaso café, cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0771.jpeg"},
   {nombre:"Llavero 3D multicolor - Salchicha flexy", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0775.jpeg"},
-  {nombre:"Llavero 3D multicolor - Celular 17 Pro tamaño small", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0776.jpeg"},
+  {nombre:"Llavero 3D multicolor - Celular 17 Pro", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0776.jpeg"},
   {nombre:"Llavero 3D multicolor - Crocs naranja", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0790.jpeg"},
   {nombre:"Llavero 3D multicolor - Yamaha", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0789.jpeg"},
   {nombre:"Llavero 3D multicolor - Renault", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0783.jpeg"},
@@ -21,11 +21,11 @@ var PRODUCTOS = [
   {nombre:"Llavero de madera grabado", cat:"Llaveros", desc:"Diseño grabado a elección de la lista.", precio:3500, img:""},
   {nombre:"Llavero 3D multicolor - Bandera Argentina", cat:"Llaveros", desc:"Impreso en PLA, varios colores en una pieza.", precio:5000, img:"./img/IMG_0779.jpeg"},
   {nombre:"Llavero 3D multicolor - Casa Rosada", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0806.png"},
-  {nombre:"Iman 3D multicolor - Coyote HELP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0798.jpeg"},
+  {nombre:"Imán 3D multicolor - Coyote HELP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0798.jpeg"},
   {nombre:"Pieza 3D Multicolor - Mate Messi 10", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:13500, img:"./img/IMG_0799.png"},
   {nombre:"Llavero 3D multicolor - Labrador", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0802.jpeg"},
-  {nombre:"Llavero y Soporte Celular 3D multicolor - CARP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0609.jpeg"},
-  {nombre:"Llavero y Soporte Celular 3D multicolor - CABJ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0621.jpeg"},
+  {nombre:"Llavero y soporte Celular 3D multicolor - CARP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0609.jpeg"},
+  {nombre:"Llavero y soporte Celular 3D multicolor - CABJ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0621.jpeg"},
   {nombre:"Llavero 3D multicolor - Panda", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0804.jpeg"},
   {nombre:"Llavero 3D multicolor - Palta x 2 con imán ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:15000, img:"./img/palta.jpg.webp"},
  
