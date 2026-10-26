@@ -9,7 +9,7 @@
 */
 var PRODUCTOS = [
   {nombre:"Llavero 3D multicolor - Oso", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0774.jpeg"},
-  {nombre:"Llavero 3D multicolor - Vaso café, cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0771.jpeg"},
+  {nombre:"Llavero 3D multicolor - Vaso café" , cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0771.jpeg"},
   {nombre:"Llavero 3D multicolor - Salchicha flexy", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0775.jpeg"},
   {nombre:"Llavero 3D multicolor - Celular 17 Pro", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0776.jpeg"},
   {nombre:"Llavero 3D multicolor - Crocs naranja", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0790.jpeg"},
