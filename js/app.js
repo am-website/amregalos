@@ -1,8 +1,17 @@
-/* Lógica del catálogo. Normalmente no hace falta tocar este archivo. */
+/* LÃ³gica del catÃ¡logo. Normalmente no hace falta tocar este archivo. */
 (function(){
   var categorias = ["Todos"].concat(PRODUCTOS.map(function(p){return p.cat})
     .filter(function(c,i,a){return a.indexOf(c)===i}));
   var actual = "Todos";
+
+  // Orden aleatorio en cada visita. Para volver al orden fijo, borrÃ¡ la lÃ­nea "mezclar(PRODUCTOS);"
+  function mezclar(a){
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+  }
+  mezclar(PRODUCTOS);
 
   function esc(s){
     return String(s).replace(/[&<>"']/g,function(c){
@@ -15,7 +24,7 @@
   }
 
   function textos(){
-    document.title = CONFIG.nombre + " · Catálogo";
+    document.title = CONFIG.nombre + " Â· CatÃ¡logo";
     document.getElementById("nombre").textContent = CONFIG.nombre;
     document.getElementById("intro").textContent = CONFIG.intro;
     document.getElementById("notas").innerHTML =
