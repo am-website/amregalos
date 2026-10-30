@@ -29,7 +29,7 @@ var PRODUCTOS = [
   {nombre:"Llavero 3D multicolor - Panda", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0804.jpeg"},
   {nombre:"Llavero 3D multicolor - Palta x 2 con imán ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:15000, img:"./img/palta.jpg.webp"},
   {nombre:"Llavero 3D multicolor - La Renga ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0828.jpeg"},
-  {nombre:"Llavero 3D multicolor - Snoopy ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0822.jpeg"},
+  {nombre:"Llavero MDF + base 3D - Snoopy ", cat:"Llaveros", desc:"Grabado y corte láser, pintado a mano.", precio:5000, img:"./img/IMG_0822.jpeg"},
   {nombre:"Llavero madera - Batman ", cat:"Llaveros", desc:"Corte láser, pintado a mano", precio:5000, img:"./img/IMG_0827.jpeg"},
   {nombre:"Llavero madera - CARP ", cat:"Llaveros", desc:"Corte láser, pintado a mano", precio:5000, img:"./img/IMG_0825.jpeg"},
   {nombre:"Llavero madera - CABJ ", cat:"Llaveros", desc:"Corte láser, pintado a mano", precio:5000, img:"./img/IMG_0823.jpeg"},
