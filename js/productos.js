@@ -17,22 +17,27 @@ var PRODUCTOS = [
   {nombre:"Llavero 3D multicolor - Renault", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0783.jpeg"},
   {nombre:"Llavero 3D multicolor - Ford", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0787.jpeg"},
   {nombre:"Llavero 3D multicolor - Caniche pelo negro", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0781.jpeg"},
-  {nombre:"Llavero 3D multicolor - Dragon Flexy efecto seda duo", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:12000, img:"./img/IMG_0800.jpeg"},
+  {nombre:"Pieza 3D multicolor - Dragon Flexy efecto seda duo", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:12000, img:"./img/IMG_0800.jpeg"},
   {nombre:"Llavero de madera grabado", cat:"Llaveros", desc:"Diseño grabado a elección de la lista.", precio:3500, img:""},
   {nombre:"Llavero 3D multicolor - Bandera Argentina", cat:"Llaveros", desc:"Impreso en PLA, varios colores en una pieza.", precio:5000, img:"./img/IMG_0779.jpeg"},
   {nombre:"Llavero 3D multicolor - Casa Rosada", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0806.png"},
-  {nombre:"Imán 3D multicolor - Coyote HELP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0798.jpeg"},
+  {nombre:"Imán 3D multicolor - Coyote HELP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:7000, img:"./img/IMG_0798.jpeg"},
   {nombre:"Pieza 3D Multicolor - Mate Messi 10", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:13500, img:"./img/IMG_0799.png"},
-  {nombre:"Llavero 3D multicolor - Labrador", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:4000, img:"./img/IMG_0802.jpeg"},
+  {nombre:"Llavero 3D multicolor - Labrador", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0821.jpeg"},
   {nombre:"Llavero y soporte Celular 3D multicolor - CARP", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0609.jpeg"},
   {nombre:"Llavero y soporte Celular 3D multicolor - CABJ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:6000, img:"./img/IMG_0621.jpeg"},
   {nombre:"Llavero 3D multicolor - Panda", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0804.jpeg"},
   {nombre:"Llavero 3D multicolor - Palta x 2 con imán ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:15000, img:"./img/palta.jpg.webp"},
+  {nombre:"Llavero 3D multicolor - La Renga ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0828.jpeg"},
+  {nombre:"Llavero 3D multicolor - Snoopy ", cat:"Llaveros", desc:"Impreso en PLA, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0822.jpeg"},
+  {nombre:"Llavero madera - Batman ", cat:"Llaveros", desc:"Corte láser, pintado a mano", precio:5000, img:"./img/IMG_0827.jpeg"},
+  {nombre:"Llavero madera - CARP ", cat:"Llaveros", desc:"Corte láser, pintado a mano", precio:5000, img:"./img/IMG_0825.jpeg"},
+  {nombre:"Llavero madera - CABJ ", cat:"Llaveros", desc:"Corte láser, pintado a mano", precio:5000, img:"./img/IMG_0823.jpeg"},
  
  
-  {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"Escribís el nombre y lo hacemos en madera o 3D.", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
+  {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"Escribís el nombre y lo hacemos en 3D.", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
   {nombre:"Llavero 3D personalizado", cat:"Personalizados", desc:"Trae tu imagen (hasta 3 colores) y lo hacemos llavero.", precio:9000, desde:true, tag:"Personalizado", img:"./img/IMG_0693.jpeg"},
-  {nombre:"Pack x10 para eventos", cat:"Personalizados", desc:"Ideal souvenirs. Mismo diseño, 10 unidades.", precio:30000, img:""},
+  //{nombre:"Pack x10 para eventos", cat:"Personalizados", desc:"Ideal souvenirs. Mismo diseño, 10 unidades.", precio:30000, img:""},
  
  
  
