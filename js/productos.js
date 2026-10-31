@@ -17,7 +17,7 @@ var PRODUCTOS = [
   {nombre:"Llavero - Renault", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0783.jpeg"},
   {nombre:"Llavero - Ford", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0787.jpeg"},
   {nombre:"Llavero - Caniche pelo negro", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0781.jpeg"},
-  {nombre:"Pieza multicolor - Dragon Flexy efecto seda duo", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, dos o más colores en una pieza.", precio:12000, img:"./img/IMG_0818.jpeg"},
+  {nombre:"Anti estrés dragón flexy efecto seda", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, dos o más colores en una pieza.", precio:12000, img:"./img/IMG_0818.jpeg"},
  // {nombre:"Llavero de madera grabado", cat:"Llaveros", desc:"Diseño grabado a elección de la lista.", precio:3500, img:""},
   {nombre:"Llavero - Bandera Argentina", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, varios colores en una pieza.", precio:5000, img:"./img/IMG_0779.jpeg"},
   {nombre:"Llavero - Casa Rosada", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente, dos o más colores en una pieza.", precio:5000, img:"./img/IMG_0806.png"},
@@ -32,7 +32,7 @@ var PRODUCTOS = [
   {nombre:"Llavero - Snoopy ", cat:"Llaveros", desc:" Calidez de madera unico", precio:5000, img:"./img/IMG_0822.jpeg"},
   {nombre:"Llavero - Batman ", cat:"Llaveros", desc:"Calidez de madera único, pintado a mano", precio:5000, img:"./img/IMG_0827.jpeg"},
   {nombre:"Llavero - CARP ", cat:"Llaveros", desc:"Calidez de madera único, pintado a mano", precio:5000, img:"./img/IMG_0825.jpeg"},
-  {nombre:"Llavero - CABJ ", cat:"Llaveros", desc:"Calidez de madera único, pintado a", precio:5000, img:"./img/IMG_0823.jpeg"},
+  {nombre:"Llavero - CABJ ", cat:"Llaveros", desc:"Calidez de madera único, pintado a mano", precio:5000, img:"./img/IMG_0823.jpeg"},
  
  
   {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"¿Querés tener tu nombre en un llavero de madera? Nosotros lo hacemos... pedilo!", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
@@ -41,6 +41,6 @@ var PRODUCTOS = [
  
  
  
-  {nombre:"Figura decorativa - Shawn el cordero ", cat:"Decoración", desc:"Pieza para escritorio o estanteria (no apto para el juego de niños).", precio:9000, desde:true, img:"./img/IMG_0678.jpeg"},
+  {nombre:"Figura decorativa - Shawn el cordero ", cat:"Decoración", desc:"Pieza para escritorio o estanteria (no apto para el juego de niños).", precio:9000, desde:true, tag:"A pedido", img:"./img/IMG_0678.jpeg"},
   {nombre:"Figura decorativa - Batman el caballero de la noche", cat:"Decoración", desc:"Pieza para escritorio o estantería (no apto para el juego de niños).", precio:12000, desde:true, img:"./img/IMG_0807.jpeg"}
 ];
