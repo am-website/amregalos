@@ -34,6 +34,9 @@ var PRODUCTOS = [
   {nombre:"Llavero - CARP ", cat:"Llaveros", desc:"Calidez de madera único, pintado a mano", precio:5000, img:"./img/IMG_0825.jpeg"},
   {nombre:"Llavero - CABJ ", cat:"Llaveros", desc:"Calidez de madera único, pintado a mano", precio:5000, img:"./img/IMG_0823.jpeg"},
  {nombre:"Soporte para celular -  Sillón texturizado ", cat:"Llaveros", desc:"Material ecológico, amigable con el medio ambiente.", precio:9000, img:"./img/IMG_0836.jpeg"},
+ {nombre:"Mate - CABJ ", cat: "Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:13000, img:"./img/IMG_0839.jpeg"},
+ {nombre:"Porta tarjeta - simple ", cat:"Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:4500, img:"./img/IMG_0842.jpeg"},
+ {nombre:"Porta tarjeta - con orificio para aro", cat:"Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:5000, img:"./img/IMG_0841.jpeg"},
  
   {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"¿Querés tener tu nombre en un llavero de madera? Nosotros lo hacemos... pedilo!", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
   {nombre:"Llavero de material ecológico personalizado", cat:"Personalizados", desc:"Traé tu imágen (hasta 3 colores) y nosotros lo hacemos... pedilo! (sujeto a evaluación).", precio:9000, desde:true, tag:"Personalizado", img:"./img/IMG_0693.jpeg"},

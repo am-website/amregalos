@@ -7,6 +7,6 @@ var CONFIG = {
   boton: "Pedir por WhatsApp",
   notas: [                 // textos del pie de página (uno por línea)
     "Los precios están en pesos argentinos y pueden cambiar sin aviso. El color de la pieza puede diferir del producto en stock",
-    "Hacemos pedidos por cantidad para empresas, eventos y regalos, imprimimos piezas a pedido. Consultá por descuentos."
+    "Hacemos pedidos por cantidad para empresas,eventos o para regalar. Imprimimos piezas a pedido. Consultá por descuentos."
   ]
 };
