@@ -37,6 +37,7 @@ var PRODUCTOS = [
  {nombre:"Mate - CABJ ", cat: "Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:13000, img:"./img/IMG_0839.jpeg"},
  {nombre:"Porta tarjeta - simple ", cat:"Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:4500, img:"./img/IMG_0842.jpeg"},
  {nombre:"Porta tarjeta - con orificio para aro", cat:"Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:5000, img:"./img/IMG_0841.jpeg"},
+ {nombre:"Caja de té ", cat:"Varios", desc:"Capacidad aproximada 25 saquitos. Madera fibrofácil", precio:8000, img:"./img/IMG_0886.jpeg"},
  
   {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"¿Querés tener tu nombre en un llavero de madera? Nosotros lo hacemos... pedilo!", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
   {nombre:"Llavero de material ecológico personalizado", cat:"Personalizados", desc:"Traé tu imágen (hasta 3 colores) y nosotros lo hacemos... pedilo! (sujeto a evaluación).", precio:9000, desde:true, tag:"Personalizado", img:"./img/IMG_0693.jpeg"},
