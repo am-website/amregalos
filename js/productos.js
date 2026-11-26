@@ -38,11 +38,13 @@ var PRODUCTOS = [
  {nombre:"Porta tarjeta - simple ", cat:"Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:4500, img:"./img/IMG_0842.jpeg"},
  {nombre:"Porta tarjeta - con orificio para aro", cat:"Varios", desc:"Material ecológico, amigable con el medio ambiente.", precio:5000, img:"./img/IMG_0841.jpeg"},
  {nombre:"Caja de té ", cat:"Varios", desc:"Capacidad aproximada 25 saquitos. Madera fibrofácil", precio:8000, img:"./img/IMG_0886.jpeg"},
+ {nombre:"Sujetador de Cortina x 2 ", cat:"Varios", desc:"12 colores a elección", precio:7000, img:"./img/IMG_0907.jpeg"},
+ 
  
   {nombre:"Llavero con tu nombre", cat:"Personalizados", desc:"¿Querés tener tu nombre en un llavero de madera? Nosotros lo hacemos... pedilo!", precio:4500, desde:true, tag:"Personalizado", img:"./img/IMG_0470.jpeg"},
   {nombre:"Llavero de material ecológico personalizado", cat:"Personalizados", desc:"Traé tu imágen (hasta 3 colores) y nosotros lo hacemos... pedilo! (sujeto a evaluación).", precio:9000, desde:true, tag:"Personalizado", img:"./img/IMG_0693.jpeg"},
   {nombre:"Pack x10 para eventos", cat:"Personalizados", desc:"¿Tenés una fiesta/evento? Mismo diseño, 10 unidades.", precio:30000, img:""},
- 
+
  
  
   {nombre:"Figura decorativa - Shaun el cordero ", cat:"Decoración", desc:"Pieza para escritorio o estanteria (no apto para juego de niños).", precio:9000, desde:true, tag:"A pedido", img:"./img/IMG_0678.jpeg"},
